@@ -55,7 +55,8 @@
 - [MUI](https://mui.com/material-ui/getting-started/overview/)
 - [React Hook Form](https://react-hook-form.com/get-started/)
 - [Yup](https://github.com/jquense/yup)
-- [Exemplo de React](https://git.leavening.com/treinamentos-tech-3/atividades-java-script/-/tree/exemplo-react-1)
+- [Exemplo de React 1](https://git.leavening.com/treinamentos-tech-3/atividades-java-script/-/tree/exemplo-react-1)
+- [Exemplo de React 2](https://git.leavening.com/treinamentos-tech-3/atividades-java-script/-/tree/react-exemplo-2)
 - [Configurando temas com MUI](https://mui.com/material-ui/customization/theming/)
 
 ### Exercícios extras
