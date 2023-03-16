@@ -1,64 +1,70 @@
-# atividades-java-script
+# Getting Started with Create React App
 
-### Dojos
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- [Dojo Puzzles](https://dojopuzzles.com/)
-- [Fizz Buzz](https://dojopuzzles.com/problems/fizzbuzz/)
-- [Caixa Eletrônico](https://dojopuzzles.com/problems/caixa-eletronico/)
-- [Encontre o telefone](https://dojopuzzles.com/problems/encontre-o-telefone/)
+## Available Scripts
 
-# Materiais de Apoio
+In the project directory, you can run:
 
-### JavaScript
+### `npm start`
 
-- [O que é JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- [Definindo variáveis](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
-- [Condicionais](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals)
-- [Manipulando Arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/)
-- [Criando objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Basics)
-- [Manipulando objetos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Working_with_Objects)
-- [For](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for)
-- [For In](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...in)
-- [For Of](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of)
-- [While](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while)
-- [Do While](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/do...while)
-- [Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-- [Arrow Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [Promises](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise/)
-- [Async Function](https://www.w3schools.com/js/js_async.asp)
-- [For await](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for-await...of)
-- [Recursividade*](https://pt.wikipedia.org/wiki/Recursividade_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### JSX
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- [O que é JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
-- [O que é Node](https://www.opus-software.com.br/node-js/)
-- [O que é NPM](https://rockcontent.com/br/blog/npm/)
-- [Quais as diferenças entre JS e JSX](https://horadecodar.com.br/2022/05/01/qual-a-diferenca-de-js-e-jsx-em-reactjs/)
-- [Criando elementos com JSX](https://www.w3schools.com/react/react_jsx.asp)
-- [Renderizando elementos com JSX](https://pt-br.reactjs.org/docs/rendering-elements.html)
+### `npm test`
 
-### React
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- [Instalando o React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [Instalando bibliotecas](https://classic.yarnpkg.com/lang/en/docs/getting-started/)
-- [Criando componentes](https://pt-br.reactjs.org/docs/components-and-props.html#function-and-class-components)
-- [Recebendo propriedades](https://pt-br.reactjs.org/docs/components-and-props.html#rendering-a-component)
-- [Utilizando CSS](https://www.w3schools.com/react/react_css.asp)
-- [Integrando com APIs](https://github.com/axios/axios)
-- [O que é um hook](https://pt-br.reactjs.org/docs/hooks-overview.html)
-- [useState](https://pt-br.reactjs.org/docs/hooks-state.html)
-- [useEffect](https://pt-br.reactjs.org/docs/hooks-effect.html)
-- [useRef](https://pt-br.reactjs.org/docs/hooks-reference.html#useref)
-- [Hooks personalizados](https://pt-br.reactjs.org/docs/hooks-custom.html)
-- [Axios](https://github.com/axios/axios)
-- [MUI](https://mui.com/material-ui/getting-started/overview/)
-- [React Hook Form](https://react-hook-form.com/get-started/)
-- [Yup](https://github.com/jquense/yup)
-- [Exemplo de React 1](https://git.leavening.com/treinamentos-tech-3/atividades-java-script/-/tree/exemplo-react-1)
-- [Exemplo de React 2](https://git.leavening.com/treinamentos-tech-3/atividades-java-script/-/tree/react-exemplo-2)
-- [Configurando temas com MUI](https://mui.com/material-ui/customization/theming/)
+### `npm run build`
 
-### Exercícios extras
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
