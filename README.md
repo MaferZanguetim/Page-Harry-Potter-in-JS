@@ -51,6 +51,12 @@
 - [useEffect](https://pt-br.reactjs.org/docs/hooks-effect.html)
 - [useRef](https://pt-br.reactjs.org/docs/hooks-reference.html#useref)
 - [Hooks personalizados](https://pt-br.reactjs.org/docs/hooks-custom.html)
+- [Axios](https://github.com/axios/axios)
+- [MUI](https://mui.com/material-ui/getting-started/overview/)
+- [React Hook Form](https://react-hook-form.com/get-started/)
+- [Yup](https://github.com/jquense/yup)
+- [Exemplo de React](https://git.leavening.com/treinamentos-tech-3/atividades-java-script/-/tree/exemplo-react-1)
+- [Configurando temas com MUI](https://mui.com/material-ui/customization/theming/)
 
 ### Exercícios extras
 
