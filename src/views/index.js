@@ -1,2 +1,5 @@
 export {Hogwarts} from './Hogwarts'
-export {Slytherin} from './Slytherin'
+export {Spells} from './Spells'
+export {SelectorHat} from './SelectorHat'
+export {Potions} from './Potions'
+export {Books} from './Books'
