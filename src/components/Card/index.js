@@ -1,1 +1,1 @@
-export {default as MediaCard} from './Card'
+export {default as BookCard} from './Card'
